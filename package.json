@@ -6,7 +6,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AllenPan03/webpack-config"
+    "url": "https://github.com/AllenPan03/rnpx-webpack-config"
   },
   "dependencies": {},
   "devDependencies": {
